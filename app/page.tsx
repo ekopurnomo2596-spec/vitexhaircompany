@@ -455,10 +455,10 @@ export default function Home() {
                 Premium Indonesian human hair supplier. Quality products for your hair extension business.
               </p>
               <div className="flex gap-3">
-                <a href="https://www.instagram.com/emahairshop/" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-[#C41E3A] transition-colors">
+                <a href="https://www.instagram.com/vitexhaircompany/" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-[#C41E3A] transition-colors">
                   <Instagram className="w-5 h-5" />
                 </a>
-                <a href="http://wa.me/6285868872566" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-[#25D366] transition-colors">
+                <a href="http://wa.me/6282224114594" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-[#25D366] transition-colors">
                   <Phone className="w-5 h-5" />
                 </a>
               </div>

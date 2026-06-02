@@ -421,7 +421,7 @@ export default function ProductPage() {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-            Copyright 2025 emahairshop. All rights reserved.
+            Copyright 2025 VITEXHAIRCOMPANY. All rights reserved.
           </div>
         </div>
       </footer>

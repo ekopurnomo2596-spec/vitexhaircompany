@@ -66,10 +66,10 @@ export default function Home() {
 
         {/* Social Icons */}
         <div className="flex gap-3 items-center">
-          <a href="https://www.instagram.com/emahairshop/" className="hidden md:flex w-9 h-9 rounded-full bg-[#C41E3A] text-white items-center justify-center hover:bg-[#a01830] transition-colors">
+          <a href="https://www.instagram.com/vitexhaircompany/" className="hidden md:flex w-9 h-9 rounded-full bg-[#C41E3A] text-white items-center justify-center hover:bg-[#a01830] transition-colors">
             <Instagram className="w-4 h-4" />
           </a>
-          <a href="http://wa.me/6285868872566" className="hidden md:flex w-9 h-9 rounded-full bg-[#25D366] text-white items-center justify-center hover:bg-[#1da851] transition-colors">
+          <a href="http://wa.me/6282224114594" className="hidden md:flex w-9 h-9 rounded-full bg-[#25D366] text-white items-center justify-center hover:bg-[#1da851] transition-colors">
             <Phone className="w-4 h-4" />
           </a>
         </div>
@@ -416,7 +416,7 @@ export default function Home() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <a href="http://wa.me/6285868872566" className="bg-[#25D366] text-white rounded-2xl p-8 text-center hover:bg-[#1da851] transition-colors group">
+          <a href="http://wa.me/6282224114594" className="bg-[#25D366] text-white rounded-2xl p-8 text-center hover:bg-[#1da851] transition-colors group">
             <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform">
               <Phone className="w-8 h-8" />
             </div>
@@ -424,20 +424,20 @@ export default function Home() {
             <p className="text-white/80">Chat with us directly</p>
           </a>
 
-          <a href="https://www.instagram.com/emahairshop/" className="bg-gradient-to-br from-[#833AB4] via-[#FD1D1D] to-[#F77737] text-white rounded-2xl p-8 text-center hover:opacity-90 transition-opacity group">
+          <a href="https://www.instagram.com/vitexhaircompany/" className="bg-gradient-to-br from-[#833AB4] via-[#FD1D1D] to-[#F77737] text-white rounded-2xl p-8 text-center hover:opacity-90 transition-opacity group">
             <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform">
               <Instagram className="w-8 h-8" />
             </div>
             <h3 className="font-bold text-xl mb-2">Instagram</h3>
-            <p className="text-white/80">Follow us @emahairshop</p>
+            <p className="text-white/80">Follow us @vitexhaircompany</p>
           </a>
 
-          <a href="mailto:emahairshop@gmail.com" className="bg-[#C41E3A] text-white rounded-2xl p-8 text-center hover:bg-[#a01830] transition-colors group">
+          <a href="mailto:setiawanafi19@gmail.com" className="bg-[#C41E3A] text-white rounded-2xl p-8 text-center hover:bg-[#a01830] transition-colors group">
             <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform">
               <MessageCircle className="w-8 h-8" />
             </div>
             <h3 className="font-bold text-xl mb-2">Email</h3>
-            <p className="text-white/80">emahairshop@gmail.com</p>
+            <p className="text-white/80">setiawanafi19@gmail.com</p>
           </a>
         </div>
       </section>
@@ -449,7 +449,7 @@ export default function Home() {
             {/* Brand Column */}
             <div>
               <div className="font-bold text-2xl tracking-tight mb-4">
-                <span className="text-[#C41E3A]">EMA</span>HAIRSHOP
+                <span className="text-[#C41E3A]">VITEX</span>HAIRCOMPANY
               </div>
               <p className="text-gray-400 text-sm leading-relaxed mb-6">
                 Premium Indonesian human hair supplier. Quality products for your hair extension business.
@@ -491,8 +491,8 @@ export default function Home() {
               <h4 className="font-bold text-lg mb-6">Contact</h4>
               <ul className="space-y-3 text-gray-400">
                 <li>Indonesia</li>
-                <li>emahairshop@gmail.com</li>
-                <li>WhatsApp: +62 85-8688-72-566</li>
+                <li>setiawanafi19@gmail.com</li>
+                <li>WhatsApp: +62 822-2411-4594</li>
               </ul>
             </div>
           </div>
@@ -508,7 +508,7 @@ export default function Home() {
 
       {/* Floating WhatsApp Button */}
       <a
-        href="http://wa.me/6285868872566"
+        href="http://wa.me/6282224114594"
         className="fixed bottom-24 right-6 z-[999] w-14 h-14 rounded-full bg-[#25D366] text-white flex items-center justify-center shadow-lg hover:bg-[#1da851] transition-colors hover:scale-110"
         aria-label="Chat on WhatsApp"
       >

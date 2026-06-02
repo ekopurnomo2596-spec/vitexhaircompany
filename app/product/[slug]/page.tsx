@@ -21,7 +21,7 @@ const products: Record<string, {
     image: "/hair-tape.jpg",
     images: ["/hair-tape.jpg", "/hair-collection.jpg"],
     description: "Premium tape-in hair extensions for seamless blending",
-    fullDescription: "EMA Hair Tape Extensions are one of our best-selling products, designed to deliver long, voluminous, and natural-looking hair in minutes. Made from 100% authentic Indonesian human hair, they ensure a smooth, tangle-free finish with no shedding and no nits. Available in a wide range of colors, lengths, and textures, our tape-ins can be fully customized to match your exact needs using advanced coloring technology. With exceptional strength, durability, and a seamless blend, EMA Tape-In Extensions are the perfect choice for professionals seeking quality and reliability.",
+    fullDescription: "VITEX Hair Tape Extensions are one of our best-selling products, designed to deliver long, voluminous, and natural-looking hair in minutes. Made from 100% authentic Indonesian human hair, they ensure a smooth, tangle-free finish with no shedding and no nits. Available in a wide range of colors, lengths, and textures, our tape-ins can be fully customized to match your exact needs using advanced coloring technology. With exceptional strength, durability, and a seamless blend, VITEX Tape-In Extensions are the perfect choice for professionals seeking quality and reliability.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
@@ -37,7 +37,7 @@ const products: Record<string, {
     image: "/hair-i-tip.avif",
     images: ["/hair-i-tip.avif", "/hair-collection.jpg"],
     description: "Individual strand extensions for precise application",
-    fullDescription: "EMA I-Tip Hair Extensions offer the ultimate in precision and versatility. Each strand is tipped with a keratin bond that fuses seamlessly with your natural hair using a micro-ring or heat application method. Made from 100% Indonesian human hair, these extensions provide a natural look and feel that lasts for months. Perfect for adding volume, length, or highlights without damage to your natural hair.",
+    fullDescription: "VITEX I-Tip Hair Extensions offer the ultimate in precision and versatility. Each strand is tipped with a keratin bond that fuses seamlessly with your natural hair using a micro-ring or heat application method. Made from 100% Indonesian human hair, these extensions provide a natural look and feel that lasts for months. Perfect for adding volume, length, or highlights without damage to your natural hair.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
@@ -53,7 +53,7 @@ const products: Record<string, {
     image: "/hair-weft.webp",
     images: ["/hair-weft.webp", "/hair-collection.jpg"],
     description: "Machine-sewn weft for quick full-head application",
-    fullDescription: "EMA Weft Hair Extensions are crafted with precision-sewn tracks that lay flat against the scalp for a natural, comfortable fit. Our wefts are made from 100% Indonesian human hair with intact cuticles aligned in the same direction, ensuring tangle-free, silky smooth hair that blends seamlessly with your own. Available in various widths and lengths, our wefts are perfect for sew-in, clip-in, or micro-link applications.",
+    fullDescription: "VITEX Weft Hair Extensions are crafted with precision-sewn tracks that lay flat against the scalp for a natural, comfortable fit. Our wefts are made from 100% Indonesian human hair with intact cuticles aligned in the same direction, ensuring tangle-free, silky smooth hair that blends seamlessly with your own. Available in various widths and lengths, our wefts are perfect for sew-in, clip-in, or micro-link applications.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
@@ -69,7 +69,7 @@ const products: Record<string, {
     image: "/hair-bulk.webp",
     images: ["/hair-bulk.webp", "/hair-collection.jpg"],
     description: "Raw bulk hair for braiding and custom extensions",
-    fullDescription: "EMA Bulk Hair is premium raw hair without any weft attachment, perfect for braiding, custom extension creation, and professional styling. Sourced directly from Indonesian donors, our bulk hair maintains its natural texture and cuticle alignment. Each bundle is carefully sorted and processed to ensure consistent quality. Ideal for salons and stylists who prefer to create their own custom hair pieces.",
+    fullDescription: "VITEX Bulk Hair is premium raw hair without any weft attachment, perfect for braiding, custom extension creation, and professional styling. Sourced directly from Indonesian donors, our bulk hair maintains its natural texture and cuticle alignment. Each bundle is carefully sorted and processed to ensure consistent quality. Ideal for salons and stylists who prefer to create their own custom hair pieces.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
@@ -85,7 +85,7 @@ const products: Record<string, {
     image: "/hair-collection.jpg",
     images: ["/hair-collection.jpg", "/hair-weft.webp"],
     description: "Easy-to-use clip-in sets for instant transformation",
-    fullDescription: "EMA Clip-In Hair Extensions are the perfect solution for instant length and volume without commitment. Each set features premium quality clips attached to machine-sewn wefts made from 100% Indonesian human hair. Easy to apply and remove, our clip-ins are perfect for special occasions or everyday wear. The clips are designed to grip securely without damaging your natural hair.",
+    fullDescription: "VITEX Clip-In Hair Extensions are the perfect solution for instant length and volume without commitment. Each set features premium quality clips attached to machine-sewn wefts made from 100% Indonesian human hair. Easy to apply and remove, our clip-ins are perfect for special occasions or everyday wear. The clips are designed to grip securely without damaging your natural hair.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
@@ -101,7 +101,7 @@ const products: Record<string, {
     image: "/hair-i-tip.avif",
     images: ["/hair-i-tip.avif", "/hair-tape.jpg"],
     description: "Fusion bonded extensions for long-lasting wear",
-    fullDescription: "EMA Keratin Tip Extensions use advanced fusion bonding technology for a secure, long-lasting hold. Each strand is tipped with high-quality keratin that bonds to your natural hair using heat application. Made from 100% Indonesian human hair, these extensions provide the most natural look and can last up to 6 months with proper care. Perfect for clients seeking a semi-permanent solution.",
+    fullDescription: "VITEX Keratin Tip Extensions use advanced fusion bonding technology for a secure, long-lasting hold. Each strand is tipped with high-quality keratin that bonds to your natural hair using heat application. Made from 100% Indonesian human hair, these extensions provide the most natural look and can last up to 6 months with proper care. Perfect for clients seeking a semi-permanent solution.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
@@ -158,8 +158,8 @@ export default function ProductPage() {
             {/* Logo */}
             <Link href="/" className="flex items-center">
               <span className="text-2xl font-bold">
-                <span className="text-[#C41E3A]">EMA</span>
-                <span className="text-gray-900">HAIRSHOP</span>
+                <span className="text-[#C41E3A]">VITEX</span>
+                <span className="text-gray-900">HAIRCOMPANY</span>
               </span>
             </Link>
 
@@ -182,7 +182,7 @@ export default function ProductPage() {
             {/* Social Icons */}
             <div className="flex items-center gap-3">
               <a
-                href="https://www.instagram.com/emahairshop/"
+                href="https://www.instagram.com/vitexhaircompany/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-[#C41E3A] rounded-md flex items-center justify-center text-white hover:bg-[#a01830] transition-colors"
@@ -190,7 +190,7 @@ export default function ProductPage() {
                 <Instagram size={18} />
               </a>
               <a
-                href="http://wa.me/6285868872566"
+                href="http://wa.me/6282224114594"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-[#25D366] rounded-md flex items-center justify-center text-white hover:bg-[#1fb855] transition-colors"
@@ -364,14 +364,14 @@ export default function ProductPage() {
             {/* Brand */}
             <div>
               <div className="text-2xl font-bold mb-4">
-                <span className="text-[#C41E3A]">EMA</span>
-                <span className="text-white">HAIRSHOP</span>
+                <span className="text-[#C41E3A]">VITEX</span>
+                <span className="text-white">HAIRCOMPANY</span>
               </div>
               <p className="text-gray-400 text-sm mb-4">
                 Enhance Your Look, Naturally. Explore Our Premium Hair Extensions.
               </p>
               <a
-                href="http://wa.me/6285868872566"
+                href="http://wa.me/6282224114594"
                 className="inline-block bg-[#C41E3A] text-white px-6 py-2 rounded-md text-sm font-semibold hover:bg-[#a01830] transition-colors"
               >
                 CONTACT US
@@ -414,21 +414,21 @@ export default function ProductPage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail size={16} />
-                  <span>Email</span>
+                  <span>VITEXil</span>
                 </li>
               </ul>
             </div>
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-            Copyright 2025 emahairshop. All rights reserved.
+            Copyright 2025 VITEXHAIRCOMPANY. All rights reserved.
           </div>
         </div>
       </footer>
 
       {/* Floating WhatsApp Button */}
       <a
-        href="http://wa.me/6285868872566"
+        href="http://wa.me/6282224114594"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:bg-[#1fb855] transition-colors z-50 flex items-center gap-2"

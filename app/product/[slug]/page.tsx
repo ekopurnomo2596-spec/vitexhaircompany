@@ -82,8 +82,8 @@ const products: Record<string, {
   },
   "clip-in": {
     name: "Clip-In Extension",
-    image: "/hair-collection.jpg",
-    images: ["/hair-collection.jpg", "/hair-weft.webp"],
+    image: "/hair-clipin.jpg",
+    images: ["/hair-clipin.jpg", "/hair-collection.jpg"],
     description: "Easy-to-use clip-in sets for instant transformation",
     fullDescription: "VITEX Clip-In Hair Extensions are the perfect solution for instant length and volume without commitment. Each set features premium quality clips attached to machine-sewn wefts made from 100% Indonesian human hair. Easy to apply and remove, our clip-ins are perfect for special occasions or everyday wear. The clips are designed to grip securely without damaging your natural hair.",
     minOrder: "1 / KG",

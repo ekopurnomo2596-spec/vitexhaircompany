@@ -35,7 +35,7 @@ export default function Home() {
 
         {/* Logo */}
         <div className="font-bold text-xl md:text-2xl tracking-tight absolute left-1/2 -translate-x-1/2 md:relative md:left-auto md:translate-x-0">
-          <span className="text-[#C41E3A]">EMA</span>HAIRSHOP
+          <span className="text-[#C41E3A]">VITEX</span>HAIRCOMPANY
         </div>
 
         {/* Desktop Navigation */}

@@ -242,7 +242,7 @@ export default function Home() {
               Search for Hair Extension <span className="text-[#C41E3A]">Supplier?</span>
             </h2>
             <p className="text-gray-600 leading-relaxed mb-6">
-              EMAHAIRSHOP is a leading manufacturer and exporter of 100% authentic Indonesian human hair. 
+              VITEXHAIRCOMPANY is a leading manufacturer and exporter of 100% authentic Indonesian human hair. 
               With over 8 years of experience in the hair extension industry, we have built a reputation 
               for delivering premium quality products to clients worldwide.
             </p>
@@ -500,7 +500,7 @@ export default function Home() {
           {/* Bottom Bar */}
           <div className="pt-8 border-t border-white/10 text-center">
             <p className="text-gray-500 text-sm">
-              © 2025 EMAHAIRSHOP. All rights reserved.
+              © 2025 VITEXHAIRCOMPANY. All rights reserved.
             </p>
           </div>
         </div>

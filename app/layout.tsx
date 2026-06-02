@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'VITEXHAIRCOMPANY',
-  description: 'EMAHAIRSHOP - Supplier Human Hair Indonesia terpercaya dengan produk rambut berkualitas tinggi. Export to 15+ countries worldwide.',
+  description: 'VITEXHAIRCOMPANY - Supplier Human Hair Indonesia terpercaya dengan produk rambut berkualitas tinggi. Export to 15+ countries worldwide.',
   icons: {
     icon: [
       {

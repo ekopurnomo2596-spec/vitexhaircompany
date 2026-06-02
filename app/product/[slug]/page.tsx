@@ -21,7 +21,7 @@ const products: Record<string, {
     image: "/hair-tape.jpg",
     images: ["/hair-tape.jpg", "/hair-collection.jpg"],
     description: "Premium tape-in hair extensions for seamless blending",
-    fullDescription: "EMA Hair Tape Extensions are one of our best-selling products, designed to deliver long, voluminous, and natural-looking hair in minutes. Made from 100% authentic Indonesian human hair, they ensure a smooth, tangle-free finish with no shedding and no nits. Available in a wide range of colors, lengths, and textures, our tape-ins can be fully customized to match your exact needs using advanced coloring technology. With exceptional strength, durability, and a seamless blend, EMA Tape-In Extensions are the perfect choice for professionals seeking quality and reliability.",
+    fullDescription: " Hair Tape Extensions are one of our best-selling products, designed to deliver long, voluminous, and natural-looking hair in minutes. Made from 100% authentic Indonesian human hair, they ensure a smooth, tangle-free finish with no shedding and no nits. Available in a wide range of colors, lengths, and textures, our tape-ins can be fully customized to match your exact needs using advanced coloring technology. With exceptional strength, durability, and a seamless blend, EMA Tape-In Extensions are the perfect choice for professionals seeking quality and reliability.",
     minOrder: "1 / KG",
     productionTime: "7 Days",
     certificate: "High Quality",
